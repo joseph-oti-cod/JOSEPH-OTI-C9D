@@ -5,19 +5,21 @@
 
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="JosephOS banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,60:003b00,100:00ff41&height=240&section=header&text=JosephOS%20v1.0&fontSize=64&fontColor=00ff41&animation=twinkling&fontAlignY=40&desc=%5B%20programs%20hub%20%C2%B7%20user%3A%20joseph-oti-cod%20%C2%B7%20status%3A%20ONLINE%20%5D&descAlignY=65&descSize=18" width="100%" alt="JosephOS"/>
 
-<img src="assets/typing.svg" width="760" alt="boot sequence"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=700&color=00FF41&center=true&vCenter=true&width=760&lines=%24+booting+JosephOS...+%5BOK%5D;%24+mounting+%2Fpuzzles+%5BOK%5D;%24+loading+genius.exe+%5BOK%5D;%24+type+a+program+number+below+%E2%86%93;%22Can+machines+think%3F%22+%E2%80%94+Alan+Turing" alt="boot"/>
+</a>
 
 <br/>
 
-![Visits](https://komarev.com/ghpvc/?username=joseph-oti-cod&label=SESSIONS&color=00b8d4&style=for-the-badge&labelColor=000000)
-![Followers](https://img.shields.io/github/followers/joseph-oti-cod?label=USERS&style=for-the-badge&color=d500f9&labelColor=000000&logo=github&logoColor=ffffff)
-![Stars](https://img.shields.io/github/stars/joseph-oti-cod?label=STARS&style=for-the-badge&color=ffc400&labelColor=000000&logo=github&logoColor=00ff41)
+![Visits](https://komarev.com/ghpvc/?username=joseph-oti-cod&label=SESSIONS&color=00ff41&style=for-the-badge&labelColor=000000)
+![Followers](https://img.shields.io/github/followers/joseph-oti-cod?label=USERS&style=for-the-badge&color=00ff41&labelColor=000000&logo=github&logoColor=00ff41)
+![Stars](https://img.shields.io/github/stars/joseph-oti-cod?label=STARS&style=for-the-badge&color=00ff41&labelColor=000000&logo=github&logoColor=00ff41)
 
 </div>
 
-<img src="assets/divider.svg" width="100%" height="5" alt=""/>
+---
 
 ## `>_` MAIN MENU
 
@@ -39,20 +41,20 @@ joseph@josephos:~$ _
 <div align="center">
 
 [![1](https://img.shields.io/badge/▶_RUN-terminal.sh-000000?style=for-the-badge&logo=gnubash&logoColor=00ff41&labelColor=003b00)](#terminal)
-[![2](https://img.shields.io/badge/▶_RUN-sudoku.exe-000000?style=for-the-badge&logo=googlegemini&logoColor=00e5ff&labelColor=004d57)](#sudoku)
-[![3](https://img.shields.io/badge/▶_RUN-turing__test.ai-000000?style=for-the-badge&logo=openai&logoColor=ea80fc&labelColor=4d004d)](#turing-test)
-[![4](https://img.shields.io/badge/▶_RUN-turing__sim.run-000000?style=for-the-badge&logo=gnometerminal&logoColor=ffea00&labelColor=4d4400)](#turing-sim)
+[![2](https://img.shields.io/badge/▶_RUN-sudoku.exe-000000?style=for-the-badge&logo=googlegemini&logoColor=00ff41&labelColor=003b00)](#sudoku)
+[![3](https://img.shields.io/badge/▶_RUN-turing__test.ai-000000?style=for-the-badge&logo=openai&logoColor=00ff41&labelColor=003b00)](#turing-test)
+[![4](https://img.shields.io/badge/▶_RUN-turing__sim.run-000000?style=for-the-badge&logo=gnometerminal&logoColor=00ff41&labelColor=003b00)](#turing-sim)
 
-[![5](https://img.shields.io/badge/▶_RUN-ctf.zip-000000?style=for-the-badge&logo=hackthebox&logoColor=ff5252&labelColor=4d0a0a)](#ctf)
-[![6](https://img.shields.io/badge/▶_RUN-cipher__lab.py-000000?style=for-the-badge&logo=python&logoColor=448aff&labelColor=00204d)](#cipher-lab)
-[![7](https://img.shields.io/badge/▶_OPEN-projects/-000000?style=for-the-badge&logo=github&logoColor=ffab40&labelColor=4d2600)](#projects)
-[![8](https://img.shields.io/badge/▶_OPEN-sysmon.dat-000000?style=for-the-badge&logo=grafana&logoColor=b388ff&labelColor=2a004d)](#sysmon)
+[![5](https://img.shields.io/badge/▶_RUN-ctf.zip-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff41&labelColor=003b00)](#ctf)
+[![6](https://img.shields.io/badge/▶_RUN-cipher__lab.py-000000?style=for-the-badge&logo=python&logoColor=00ff41&labelColor=003b00)](#cipher-lab)
+[![7](https://img.shields.io/badge/▶_OPEN-projects/-000000?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=003b00)](#projects)
+[![8](https://img.shields.io/badge/▶_OPEN-sysmon.dat-000000?style=for-the-badge&logo=grafana&logoColor=00ff41&labelColor=003b00)](#sysmon)
 
 </div>
 
 > 💡 **How to run a program:** tap its **▶ RUN** button, then tap the **`▶ ./program`** dropdown to launch it. Answers are hidden inside — no peeking.
 
-<img src="assets/divider.svg" width="100%" height="5" alt=""/>
+---
 
 <a id="whoami"></a>
 
@@ -75,7 +77,7 @@ joseph@josephos:~$ cat whoami.txt
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,arduino,git,github,linux,bash,vscode&theme=dark" alt="stack"/>
 </div>
 
-<img src="assets/divider.svg" width="100%" height="5" alt=""/>
+---
 
 <a id="terminal"></a>
 
@@ -120,7 +122,7 @@ joseph@josephos:~$ secret
 
 </details>
 
-<img src="assets/divider.svg" width="100%" height="5" alt=""/>
+---
 
 <a id="sudoku"></a>
 
@@ -201,7 +203,7 @@ Digits **1–9**, no repeats in any row, column or 3×3 box.
 
 </details>
 
-<img src="assets/divider.svg" width="100%" height="5" alt=""/>
+---
 
 <a id="turing-test"></a>
 
@@ -254,7 +256,7 @@ In 1950 **Alan Turing** proposed a test: if you can't tell a machine from a huma
 
 </details>
 
-<img src="assets/divider.svg" width="100%" height="5" alt=""/>
+---
 
 <a id="turing-sim"></a>
 
@@ -290,7 +292,7 @@ A Turing machine reads/writes symbols on an infinite tape using a tiny rulebook.
 
 </details>
 
-<img src="assets/divider.svg" width="100%" height="5" alt=""/>
+---
 
 <a id="ctf"></a>
 
@@ -338,7 +340,7 @@ Sk9TRVBIe2g0Y2tfdGgzX3BsNG4zdH0=
 
 </details>
 
-<img src="assets/divider.svg" width="100%" height="5" alt=""/>
+---
 
 <a id="cipher-lab"></a>
 
@@ -371,7 +373,7 @@ print(''.join(chr(int(b, 2)) for b in "01001000 01000001 01000011 01001011".spli
 
 </details>
 
-<img src="assets/divider.svg" width="100%" height="5" alt=""/>
+---
 
 <a id="projects"></a>
 
@@ -393,7 +395,7 @@ joseph@josephos:~/projects$ ls -la
 
 </div>
 
-<img src="assets/divider.svg" width="100%" height="5" alt=""/>
+---
 
 <a id="sysmon"></a>
 
@@ -401,18 +403,18 @@ joseph@josephos:~/projects$ ls -la
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=joseph-oti-cod&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=ffea00&text_color=c9d1d9&ring_color=00e5ff" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-oti-cod&layout=compact&hide_border=true&bg_color=0d1117&title_color=d500f9&text_color=c9d1d9" alt="languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=joseph-oti-cod&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-oti-cod&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" alt="languages"/>
 
-<img src="https://streak-stats.demolab.com?user=joseph-oti-cod&theme=dark&hide_border=true&background=0d1117&stroke=ff1744&ring=ffea00&fire=ff9100&currStreakLabel=ffea00&sideLabels=00e5ff&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=joseph-oti-cod&theme=dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joseph-oti-cod&bg_color=0d1117&color=ff9100&line=d500f9&point=00e5ff&area=true&area_color=d500f9&hide_border=true" alt="activity" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joseph-oti-cod&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true" alt="activity" width="95%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=joseph-oti-cod&theme=radical&no-frame=true&row=1&column=6&margin-w=8" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=joseph-oti-cod&theme=matrix&no-frame=true&row=1&column=6&margin-w=8" alt="trophies"/>
 
 </div>
 
-<img src="assets/divider.svg" width="100%" height="5" alt=""/>
+---
 
 ## `🧬` SOURCE CODE OF ME
 
@@ -435,21 +437,21 @@ me = Joseph()
 me.main_loop()
 ```
 
-<img src="assets/divider.svg" width="100%" height="5" alt=""/>
+---
 
 ## `🤝` CONNECT
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-joseph--oti--cod-000000?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/joseph-oti-cod)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-000000?style=for-the-badge&logo=gmail&logoColor=ff5252)](mailto:xadajoselasmith@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-000000?style=for-the-badge&logo=instagram&logoColor=ea80fc)](https://instagram.com/oselusmith)
+[![GitHub](https://img.shields.io/badge/GitHub-joseph--oti--cod-000000?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/joseph-oti-cod)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-000000?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:xadajoselasmith@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-000000?style=for-the-badge&logo=instagram&logoColor=00ff41)](https://instagram.com/oselusmith)
 
 ```text
 > Open to: coding team-ups · tech brainstorming · cool collabs
 > $ shutdown -h now   (just kidding, I never sleep)
 ```
 
-<img src="assets/footer.svg" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003b00,100:000000&height=120&section=footer&text=Still%20waiting%20for%20tech%20to%20catch%20up%20to%20my%20ideas%20%F0%9F%9A%80&fontSize=18&fontColor=00ff41&fontAlignY=70" width="100%" alt="footer"/>
 
 </div>
